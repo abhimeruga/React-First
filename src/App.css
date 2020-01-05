@@ -36,3 +36,70 @@
     transform: rotate(360deg);
   }
 }
+
+.user-list{
+  width:400px!important;
+    position: absolute;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,36,36,1) 35%, rgba(83,178,198,1) 100%);
+
+}
+.user-details{
+  float: right;
+  position: relative;
+  text-align:left;
+  width:400px;  
+  background: linear-gradient(90deg, rgba(179,36,36,1) 0%, rgb(60, 54, 177) 35%, rgb(207, 63, 188) 100%);
+}
+.user-details-individual{
+  margin-left:10px;
+}
+.desc {
+  padding: 5px;
+  text-align: center;
+}
+
+.user-name{
+  text-decoration: none!important;
+}
+.ul-list{
+text-align: center;
+}
+.li-list{
+  float: left;
+  width: 35px;
+  background: cyan;
+  border: 1px solid black;
+}
+.cards{
+  width: 100%;
+  text-align: center;
+  margin-left:25px;
+}
+.card-style{
+  width:250px!important;
+  float:left;
+  height: 200px;
+  margin:5px;
+  background: linear-gradient(90deg, rgb(35, 223, 160) 0%, rgb(214, 62, 62) 35%, rgb(56, 146, 56) 100%);
+}
+.pagination-stlye{
+  float: left;
+  width: 800px;
+  text-align: center;
+  margin-left: 262px;
+}
+.mn-btn{
+  width:200px;
+  border-radius: 2px;
+  background-color: crimson;
+}
+.bg{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,36,36,1) 35%, rgba(83,178,198,1) 100%);
+}
+
+.photos-grid{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
